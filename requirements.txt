@@ -1,2 +1,1 @@
 ansible==2.2.3.0
-pywinrm[credssp,kerberos]>=0.2.2
